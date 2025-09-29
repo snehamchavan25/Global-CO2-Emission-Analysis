@@ -4,5 +4,5 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 
 Quantify and visualize historical CO2 emission trends: To understand the evolution of CO2 emissions over time, both globally and at the country level.
 
-Investigate the relationship between CO2 emissions and influencing factors: To explore how factors such as population, geographical area, and historical development correlate with CO2 emission levels.
+Investigate the relationship between CO2 emissions and influencing factors: To explore how factors such as population, geographical area, and historical development correlate with CO2 emission levels .
 

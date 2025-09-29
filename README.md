@@ -6,5 +6,3 @@ Quantify and visualize historical CO2 emission trends: To understand the evolut
 
 Investigate the relationship between CO2 emissions and influencing factors: To explore how factors such as population, geographical area, and historical development correlate with CO2 emission levels.
 
-Apply machine learning for predictive insights: To build a model that can help understand the drivers of CO2 emissions and potentially provide insights for future scenarios.
-<img width="3529" height="388" alt="image" src="https://github.com/user-attachments/assets/ca3a3e59-c784-4114-b33e-ab6521b4110f" />
